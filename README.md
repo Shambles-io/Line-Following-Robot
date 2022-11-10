@@ -1,7 +1,7 @@
 # Line-Following-Robot
 Project Summary:
   The purpose of this project was to build a line-following robot using our learned
-knowledge for circuits and coding. To complete this we use the Arduino kit, a simple car chassis
+knowledge of circuits and coding. To complete this we use the Arduino kit, a simple car chassis
 with two wheels connected to two DC motors, also implementing two photocells, two NPN
 transistors, and a buzzer. The line following robot works well despite the type of line it must
 follow. We added a buzzer so that it would sound off whenever the robot makes a turn but not
